@@ -79,12 +79,3 @@
   "purpose": "ประชุมโครงงาน"
 }
 
-Response (201 Created)
-{
-  "booking_id": 1234,
-  "room_id": 101,
-  "user_id": 567,
-  "status": "pending",
-  "created_at": "2026-01-08T10:30:00Z"
-}
-
